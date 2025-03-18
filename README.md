@@ -16,7 +16,7 @@ The script generates a CSV file with the following columns:
 
 | Product ID | SKU   | Name       | Regular Price | Final Price | Launch Date | Link Product | Description |
 |------------|------|------------|--------------|------------|--------------|--------------|-------------|
-| 1234567    | IF0704 | Adidas Running Shoes | 1500000 | 1200000 | 2024-03-01 | [Link](https://www.adidas.co.id/IF0704.html) | High-performance running shoes. |
+| 1234567    | IF0704 | Adidas Running Shoes | 1500000 | 1200000 | 2024-03-01 | [Link](https://www.adidas.co.id/x-crazyfast-league-indoor-boots-876756.html) | High-performance running shoes. |
 
 ## 🛠️ Installation & Setup
 ### 1️⃣ Clone the Repository
