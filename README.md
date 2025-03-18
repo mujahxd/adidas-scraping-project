@@ -25,22 +25,22 @@ git clone https://github.com/your-username/adidas-scraping-project.git
 cd adidas-scraping-project
 ```
 
-## Install Dependencies
+### 2️⃣ Install Dependencies
 ```bash
 pip install curl_cffi
 ```
-## Run the Script
+### 3️⃣ Run the Script
 ```bash
 python main.py
 ```
 
-## How It Works
+### 🔄 How It Works
 1. Scrapes category pages to get SKUs.
 2. Fetches product details from Adidas GraphQL API.
 3. Cleans up text formatting (HTML entities, extra newlines).
 4. Saves the final data into a structured products.csv file.
 
-## 📌 Configuration
+### 📌 Configuration
 ```python
 scrape_adidas(max_pages=3, rate_limit=2)  # Change max_pages and rate_limit as needed
 ```
